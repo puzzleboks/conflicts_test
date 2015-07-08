@@ -1,3 +1,3 @@
 # conflicts_test
 
-This is a test about merge conflicts in git.
+This is a test of the emergency broadcast system.
